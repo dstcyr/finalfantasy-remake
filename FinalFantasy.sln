@@ -5,7 +5,7 @@ VisualStudioVersion = 17.12.35527.113
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FinalFantasy", "FinalFantasy\FinalFantasy.vcxproj", "{85727CC4-9A13-4E5F-A99D-2DC184F83EC1}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CEngine", "cengine\CEngine.vcxproj", "{9AB712D0-63AE-4549-96E8-90EFB22D9DE7}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GameLib", "..\arkanoid-remake\gamelib\GameLib.vcxproj", "{9AB712D0-63AE-4549-96E8-90EFB22D9DE7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
